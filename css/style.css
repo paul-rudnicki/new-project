@@ -3,7 +3,8 @@ body {
 }
 
 h1 {
-	font-size: 14px;
 	color: green;
 	background-color: yellow;
+	line-height: 20px;
+	outline: none;
 }
